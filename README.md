@@ -1,3 +1,12 @@
+<div class="button-container">
+  <a href="https://github.com/ajulianajordao" class="button" style="border: 2px solid darkgreen; padding: 5px; color: black; background-color: darkgreen;">Início</a>
+  <a href="https://api.whatsapp.com/send?phone=22998945362" class="button" style="border: 2px solid darkgreen; padding: 5px; color: black; background-color: darkgreen;">Contato</a>
+  <a href="https://www.linkedin.com/in/juliana-jordao-fernandes/" class="button" style="border: 2px solid darkgreen; padding: 5px; color: black; background-color: darkgreen;">LinkedIn</a>
+</div>
+
+
+
+
 ### Hi there 👋
 
 Sou estudante de Sistemas da Computação na Universidade Federal
