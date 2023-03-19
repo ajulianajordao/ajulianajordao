@@ -1,9 +1,6 @@
-<div class="button-container">
-  <a href="https://github.com/ajulianajordao" class="button" style="border: 2px solid darkgreen; padding: 5px; color: black; background-color: darkgreen;">Início</a>
-  <a href="mailto:julianaj.fernandes@hotmail.com" class="button" style="border: 2px solid darkgreen; padding: 5px; color: black; background-color: darkgreen;">Contato</a>
-  <a href="https://www.linkedin.com/in/juliana-jordao-fernandes/" class="button" style="border: 2px solid darkgreen; padding: 5px; color: black; background-color: darkgreen;">LinkedIn</a>
-</div>
-
+[![Perfil](https://img.shields.io/badge/-Perfil-007f4f?style=flat-square&logo=github&logoColor=white&labelColor=007f4f)](https://github.com/ajulianajordao)
+[![Email](https://img.shields.io/badge/-Email-007f4f?style=flat-square&logo=mail.ru&logoColor=white&labelColor=007f4f)](mailto:julianaj.fernandes@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-007f4f?style=flat-square&logo=linkedin&logoColor=white&labelColor=007f4f)](https://www.linkedin.com/in/juliana-jordao-fernandes/)
 
 
 👋 Hello, I am a Computer Systems student at the Federal Fluminense University and I am passionate about data engineering!
