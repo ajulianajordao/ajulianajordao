@@ -16,7 +16,3 @@
 🤔 I am also looking for help and guidance from experienced professionals in the field to continue growing my skills and knowledge.
 
 📫 You can reach me via email, which you can find on my profile.
-
-😄 My pronouns are she/her.
-
-⚡ Fun fact: When I'm not coding or working with data, I love to have a coffee 😂☕️
