@@ -3,6 +3,9 @@
   <a href="mailto:julianaj.fernandes@hotmail.com" class="button" style="border: 2px solid darkgreen; padding: 5px; color: black; background-color: darkgreen;">Contato</a>
   <a href="https://www.linkedin.com/in/juliana-jordao-fernandes/" class="button" style="border: 2px solid darkgreen; padding: 5px; color: black; background-color: darkgreen;">LinkedIn</a>
 </div>
+
+
+
 👋 Hello, I am a Computer Systems student at the Federal Fluminense University and I am passionate about data engineering!
 
 💻📊 My main focus is on developing software that covers the entire process of data collection, transformation, and visualization.
