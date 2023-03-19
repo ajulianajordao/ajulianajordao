@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-007f4f?style=flat-square&logo=linkedin&logoColor=white&labelColor=007f4f)](https://www.linkedin.com/in/juliana-jordao-fernandes/)
 
 
-👋 Hello, I am a Computer Systems student at the Federal Fluminense University and I am passionate about data engineering!
+👋 I am a Computer Systems student at the Federal Fluminense University and I am passionate about data engineering!
 
 💻📊 My main focus is on developing software that covers the entire process of data collection, transformation, and visualization.
 
