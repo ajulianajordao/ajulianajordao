@@ -1,49 +1,22 @@
 <div class="button-container">
   <a href="https://github.com/ajulianajordao" class="button" style="border: 2px solid darkgreen; padding: 5px; color: black; background-color: darkgreen;">Início</a>
-  <a href="https://api.whatsapp.com/send?phone=22998945362" class="button" style="border: 2px solid darkgreen; padding: 5px; color: black; background-color: darkgreen;">Contato</a>
+  <a href="mailto:julianaj.fernandes@hotmail.com" class="button" style="border: 2px solid darkgreen; padding: 5px; color: black; background-color: darkgreen;">Contato</a>
   <a href="https://www.linkedin.com/in/juliana-jordao-fernandes/" class="button" style="border: 2px solid darkgreen; padding: 5px; color: black; background-color: darkgreen;">LinkedIn</a>
 </div>
+👋 Hello, I am a Computer Systems student at the Federal Fluminense University and I am passionate about data engineering!
 
+💻📊 My main focus is on developing software that covers the entire process of data collection, transformation, and visualization.
 
+🔭 Currently, I am working on implementing solutions to automate data collection and streamline data transformation using Python and Business Intelligence tools like Power BI.
 
+🌱 I am constantly learning new skills and tools to improve my knowledge and capabilities in the field of data engineering.
 
-### Hi there 👋
+👯 I'm always looking to collaborate with other professionals in the data engineering field, and I'm open to discussing ideas and sharing knowledge. 💬 Feel free to ask me about anything related to data engineering, from web scraping to dashboard design.
 
-Sou estudante de Sistemas da Computação na Universidade Federal
-Fluminense e minha principal área de interesse é na engenharia de dados.
-Meu foco é o desenvolvimento de softwares que abrangem todo o
-processo de coleta, transformação e visualização de dados. Tracei um
-roadmap de estudos, iniciando pelo conhecimento fundamental para a
-coleta de dados na web: HTML, CSS e Javascript.
+🤔 I am also looking for help and guidance from experienced professionals in the field to continue growing my skills and knowledge.
 
-Em seguida, concentrei
-meus estudos em Python, por ser a principal linguagem usada para Web
-Scraping e Automatização de processos. Consigo realizar uma coleta de
-dados eficiente e bem estruturada com esses conhecimentos
-fundamentais. 
+📫 You can reach me via email, which you can find on my profile.
 
-Para transformação dos dados em informações, utilizo ferramentas de
-Business Intelligence, em especial, o Power BI. Faço uso das ferramentas
-do Power Query para tratar os dados brutos, aplicando fórmulas DAX e
-transformando-os em informações úteis. Em seguida, crio Dashboards
-interativos para a visualização final dos resultados.
+😄 My pronouns are she/her.
 
-Acredito que a automatização de processos e a criação de soluções
-personalizadas sejam fundamentais para tornar a coleta, transformação e
-visualização de dados mais eficientes e escaláveis. Com isso, espero
-aplicar meus conhecimentos em diversos contextos e áreas de negócios.
-
-<!--
-**ajulianajordao/ajulianajordao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Fun fact: When I'm not coding or working with data, I love to have a coffee 😂☕️
