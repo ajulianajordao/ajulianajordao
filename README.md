@@ -5,7 +5,7 @@
 
 👋 👋 Computer Systems student at the Federal Fluminense University.
 
-💻📊 Currently, I work in the Supply Chain sector at Shullemberg, SLB One Subsea. I am responsible for automating processes throughout the business area, including data extraction from SAP, BI, and the internet, as well as data processing, transformation, and visualization. I use Python and VBA scripts and work with databases, Dataverse, and SharePoint.
+💻📊 Currently, I work in the Supply Chain sector at Shullemberg, SLB One Subsea. I am responsible for automating processes throughout the business area, including RPA, data extraction from SAP, BI, and the internet, as well as data processing, transformation, and visualization. I use Python and VBA scripts and work with databases, Dataverse, and SharePoint.
 
 🔭 My current project involves implementing solutions to automate SAP data collection, integrate it with supplier information, and provide better visualization and tracking of all purchase orders in the company.
 
